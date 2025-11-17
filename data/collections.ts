@@ -15,7 +15,7 @@ export const collections: Collection[] = [
     title: 'Urban Elegance',
     description: 'Sophisticated urban fashion collection blending modern aesthetics with timeless elegance.',
     mood: 'Sophisticated, Modern',
-    season: 'Fall/Winter 2024',
+    season: 'Fall/Winter 2025',
     featured: true,
     images: [
       '/images/collections/urban-elegance/outfit-1.jpg',
@@ -31,7 +31,7 @@ export const collections: Collection[] = [
     title: 'Coastal Minimalism',
     description: 'Light and breezy coastal fashion inspired by serene beach landscapes.',
     mood: 'Relaxed, Airy',
-    season: 'Spring/Summer 2024',
+    season: 'Spring/Summer 2025',
     featured: true,
     images: [
       '/images/collections/coastal-minimalism/beach-outfit-1.jpg',
